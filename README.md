@@ -189,7 +189,7 @@ DB_DATABASE=inventory_db
 
 ## 👨‍💻 Author
 
-**Girmiya Addisu**
+**Girmay Addisu**
 - GitHub: [@girmiyadisu122542](https://github.com/girmiyadisu122542)
 
 
